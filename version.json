@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.0",
-  "releaseNotes": "- Added EaseCopy function.\n- Action button layout changed.\n- Added update notification modal.\n- Improved pen tablet support.",
+  "latestVersion": "1.1.1",
+  "releaseNotes": "- Fixed issues on macOS\n- Resolved issues in specific environments",
   "url": "https://halkun19.booth.pm/items/7511897"
 }
